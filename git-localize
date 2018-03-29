@@ -3,5 +3,5 @@ if [ -z "$1" ]
   then
     git commit -m ':globe_with_meridians: localize: ' -e
   else
-    git commit -m "globe_with_meridians:localize: $1"
+    git commit -m ":globe_with_meridians: localize: $1"
 fi
